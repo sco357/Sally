@@ -1,11 +1,29 @@
-body {
-  		background-color:#000000 
+header {
+  		background-color: #FB5A34;
+  		text-align: center;
+  		padding-top: 50px;
+  		padding-bottom: 50px;
+  		margin: 0;
   	}
-
- header {
-  		background-color: ‎#000080
-  		text-align:center;
-  	}
+ body
+ 	{
+ 		background-color: #F9E0DA;
+ 		margin: 0;
+ 		text-align: center;
+ 	}
+ footer
+ {
+ 	background-color: #C2CBE1;
+  		text-align: center;
+  		padding-top: 25;
+  		padding-bottom: 25px;
+ }
+ header img
+ {
+ 	border-radius: 170px;
+ 	width: 300px;
+ 	border: 10px solid #0048FF
+ }
 
 .title
 	{
@@ -13,19 +31,19 @@ body {
 	} 
 .stitle
 	{
-		font-family:fantasy,garamond,serif;color:orange;font-size:30px;font-style:normal;
+		font-family:fantasy,garamond,serif;color:orange;font-size:30px;font-style:normal;text-align: left;padding-left: 10px;
 	} 
 .normal
 	{
-		font-family:Candara,garamond,serif;color:white;font-size:20px;font-style:normal;text-align: center;
+		font-family:Candara,garamond,serif;color:black;font-size:20px;font-style:normal;text-align: center;padding-left: 10px;padding-right: 10px;
 	} 
 .Head
 	{
-		font-family:fantasy,garamond,serif;color:orange;font-size:60px;font-style:underline;text-align: center;
+		font-family:Candara;color:#FFFFFF;font-size:60px;font-style:normal;text-align:center;
 	} 
 .list
 	{
-		font-family:Candara,garamond,serif;color:white;font-size:20px;font-style:normal;
+		font-family:Candara,garamond,serif;color:black;font-size:20px;font-style:normal;text-align: left;
 	} 
 .right
 	{
