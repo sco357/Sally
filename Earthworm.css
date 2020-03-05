@@ -1,6 +1,10 @@
 body {
   		background-color:#000000 
   	}
+
+ header {
+  		background-color:blue
+  	}
 .title
 	{
 		font-family:fantasy,garamond,serif;color:orange;font-size:30px;font-style:normal;text-align: center;
