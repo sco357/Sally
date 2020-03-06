@@ -62,8 +62,7 @@ a
 {
 	color: #a632a8;
 	font-family:Candara;
-	padding: 4px;
-
+	line-height: 30px;
 }
 a:hover{
 	color: white;
